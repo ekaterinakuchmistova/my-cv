@@ -640,6 +640,16 @@ section .container {
   color: #fff;
 }
 
+.half-size {
+  width: 48%;
+  height: auto;
+}
+
+.half-size-mycointainer {
+  width: 98%;
+  height: auto;
+}
+
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
