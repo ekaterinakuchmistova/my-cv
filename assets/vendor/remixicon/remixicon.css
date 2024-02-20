@@ -90,7 +90,7 @@
 .ri-amazon-fill:before { content: "\ea2d"; }
 .ri-amazon-line:before { content: "\ea2e"; }
 .ri-anchor-fill:before { content: "\ea2f"; }
-.ri-anchor-line:before { content: "\ea30"; }
+.ri-anchor-line:before { content: "\f42d"; }
 .ri-ancient-gate-fill:before { content: "\ea31"; }
 .ri-ancient-gate-line:before { content: "\ea32"; }
 .ri-ancient-pavilion-fill:before { content: "\ea33"; }
@@ -208,7 +208,7 @@
 .ri-barricade-fill:before { content: "\eaa3"; }
 .ri-barricade-line:before { content: "\eaa4"; }
 .ri-base-station-fill:before { content: "\eaa5"; }
-.ri-base-station-line:before { content: "\eaa6"; }
+.ri-base-station-line:before { content: "\edc0"; }
 .ri-basketball-fill:before { content: "\eaa7"; }
 .ri-basketball-line:before { content: "\eaa8"; }
 .ri-battery-2-charge-fill:before { content: "\eaa9"; }
@@ -608,7 +608,7 @@
 .ri-direction-fill:before { content: "\ec33"; }
 .ri-direction-line:before { content: "\ec34"; }
 .ri-disc-fill:before { content: "\ec35"; }
-.ri-disc-line:before { content: "\ec36"; }
+.ri-disc-line:before { content: "\f1f5"; }
 .ri-discord-fill:before { content: "\ec37"; }
 .ri-discord-line:before { content: "\ec38"; }
 .ri-discuss-fill:before { content: "\ec39"; }
@@ -793,7 +793,7 @@
 .ri-file-list-2-fill:before { content: "\ecec"; }
 .ri-file-list-2-line:before { content: "\eced"; }
 .ri-file-list-3-fill:before { content: "\ecee"; }
-.ri-file-list-3-line:before { content: "\ecef"; }
+.ri-file-list-3-line:before { content: "\f33a"; }
 .ri-file-list-fill:before { content: "\ecf0"; }
 .ri-file-list-line:before { content: "\ecf1"; }
 .ri-file-lock-fill:before { content: "\ecf2"; }
@@ -859,7 +859,7 @@
 .ri-fingerprint-2-fill:before { content: "\ed2e"; }
 .ri-fingerprint-2-line:before { content: "\ed2f"; }
 .ri-fingerprint-fill:before { content: "\ed30"; }
-.ri-fingerprint-line:before { content: "\ed31"; }
+.ri-fingerprint-line:before { content: "\eba6"; }
 .ri-fire-fill:before { content: "\ed32"; }
 .ri-fire-line:before { content: "\ed33"; }
 .ri-firefox-fill:before { content: "\ed34"; }
@@ -1031,7 +1031,7 @@
 .ri-gps-fill:before { content: "\edda"; }
 .ri-gps-line:before { content: "\eddb"; }
 .ri-gradienter-fill:before { content: "\eddc"; }
-.ri-gradienter-line:before { content: "\eddd"; }
+.ri-gradienter-line:before { content: "\ee08"; }
 .ri-grid-fill:before { content: "\edde"; }
 .ri-grid-line:before { content: "\eddf"; }
 .ri-group-2-fill:before { content: "\ede0"; }
@@ -1515,7 +1515,7 @@
 .ri-pages-fill:before { content: "\efbe"; }
 .ri-pages-line:before { content: "\efbf"; }
 .ri-paint-brush-fill:before { content: "\efc0"; }
-.ri-paint-brush-line:before { content: "\efc1"; }
+.ri-paint-brush-line:before { content: "\f44a"; }
 .ri-paint-fill:before { content: "\efc2"; }
 .ri-paint-line:before { content: "\efc3"; }
 .ri-palette-fill:before { content: "\efc4"; }
@@ -1611,7 +1611,7 @@
 .ri-police-car-fill:before { content: "\f01e"; }
 .ri-police-car-line:before { content: "\f01f"; }
 .ri-price-tag-2-fill:before { content: "\f020"; }
-.ri-price-tag-2-line:before { content: "\f021"; }
+.ri-price-tag-2-line:before { content: "\eee9"; }
 .ri-price-tag-3-fill:before { content: "\f022"; }
 .ri-price-tag-3-line:before { content: "\f023"; }
 .ri-price-tag-fill:before { content: "\f024"; }
@@ -2003,7 +2003,7 @@
 .ri-store-3-fill:before { content: "\f1a6"; }
 .ri-store-3-line:before { content: "\f1a7"; }
 .ri-store-fill:before { content: "\f1a8"; }
-.ri-store-line:before { content: "\f1a9"; }
+.ri-store-line:before { content: "\ec15"; }
 .ri-strikethrough-2:before { content: "\f1aa"; }
 .ri-strikethrough:before { content: "\f1ab"; }
 .ri-subscript-2:before { content: "\f1ac"; }
